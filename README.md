@@ -12,6 +12,9 @@ Build a consolidated, modern and robust Data Warehouse for retail firm with SQL 
 -  **Data Integration:** Comnine both sources into a single user-friendly, data model designed for analytical purposes.
 -  **Scope:** Focus on the latest dataset only; Historization is not required.
 -  **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytical teams.
+
+## General Principles 
+-  **Naming Conventions** Use snake_case with lower case letters and underscore to seperate words.
 -  **Language** Use English for all names.
 -  **Avoid reserves words:** Do not use SQL reserves for naming objects. 
 
