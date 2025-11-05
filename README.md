@@ -32,6 +32,13 @@ Build a consolidated, modern and robust Data Warehouse for retail firm with SQL 
       -  `<sourcesystem>_<entity>`: Name of thesource system (e.g., `crm`, `erp`).
       -  `<entity>` : Exact table name from the source system.
       -  Example `crm_customer_info` → Customer information from the CRM system.
+  
+## Silver Rules 
+-  All name must start with the source system name and table names must march their original names without renaming
+-  #### <sourcesystem>_<entity> 
+      -  `<sourcesystem>_<entity>`: Name of thesource system (e.g., `crm`, `erp`).
+      -  `<entity>` : Exact table name from the source system.
+      -  Example `crm_customer_info` → Customer information from the CRM system.
    
 ## Gold Rules 
 -  All names must use meaningful, business-aligned names for tables, starting with the category prefix
