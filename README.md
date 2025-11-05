@@ -1,4 +1,4 @@
-# 🏗️: Data Warehouse and Analytics Projects 
+# 🏗️ Data Warehouse and Analytics Projects 
 This project demonstrates a complete end-to-end development of Data Warehouse to Analytics solution for Dasten Retailstore Supermarket. The purpose of this project is to build a central source of truth for the company's operations data and eliminate the tediousness in accessing the right data, the inconsitency and lack of trust in reporting. 
 
 # ✍️ Project Requirements 
