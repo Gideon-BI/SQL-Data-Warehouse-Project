@@ -16,9 +16,9 @@ Build a consolidated, modern and robust Data Warehouse for retail firm with SQL 
 ### BI and Reporting Analytics Objective
 Develop a SQL analytics solution to give deep insight into;
 
-**Customer Behaviour**
-**Product Performance**
-**Sales Trend**
+-  **Customer Behaviour**
+-  **Product Performance**
+-  **Sales Trend**
 
 ## 🏛️ Data Warehouse Architecture 
 
