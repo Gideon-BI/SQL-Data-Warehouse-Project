@@ -20,7 +20,7 @@ Build a consolidated, modern and robust Data Warehouse for retail firm with SQL 
 ## Data Warehouse Architecture 
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/username/image-assets/main/project1/dashboard.png](https://github.com/Gideon-BI/SQL-Data-Warehouse-Project/blob/main/assets/Data%20Warehouse%20Diagram%20.drawio.pdf)" width="600" alt="Dashboard Preview">
+  <img src="[https://raw.githubusercontent.com/username/image-assets/main/project1/dashboard.png](https://github.com/Gideon-BI/SQL-Data-Warehouse-Project/blob/main/assets/Data%20Warehouse%20Diagram%20.drawio.pdf)" width="600" alt="Data Warehouse Architecture">
 </p>
 
 
