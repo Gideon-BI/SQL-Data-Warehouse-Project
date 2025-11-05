@@ -19,6 +19,12 @@ Build a consolidated, modern and robust Data Warehouse for retail firm with SQL 
 
 ## Data Warehouse Architecture 
 
+![Data Warehouse Architecture](https://github.com/Gideon-BI/SQL-Data-Warehouse-Project/blob/main/assets/Data%20Warehouse%20Diagram%20.drawio.pdf)
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/username/image-assets/main/project1/dashboard.png](https://github.com/Gideon-BI/SQL-Data-Warehouse-Project/blob/main/assets/Data%20Warehouse%20Diagram%20.drawio.pdf)" width="600" alt="Dashboard Preview">
+</p>
+
+
 # Table Naming Conventions
 ## Bronze Rules 
 -  All name must start with the source system name and table names must march their original names without renaming
