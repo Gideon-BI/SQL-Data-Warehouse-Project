@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Projects 
+# 🏗️: Data Warehouse and Analytics Projects 
 This project demonstrates a complete end-to-end development of Data Warehouse to Analytics solution for Dasten Retailstore Supermarket. The purpose of this project is to build a central source of truth for the company's operations data and eliminate the tediousness in accessing the right data, the inconsitency and lack of trust in reporting. 
 
 # 📍Project Requirements 
@@ -17,7 +17,7 @@ Build a consolidated, modern and robust Data Warehouse for retail firm with SQL 
 -  **Language** Use English for all names.
 -  **Avoid reserves words:** Do not use SQL reserves for naming objects. 
 
-## Data Warehouse Architecture 
+## 🏛️ Data Warehouse Architecture 
 
 <p align="center">
   <img src="[https://raw.githubusercontent.com/username/image-assets/main/project1/dashboard.png](https://github.com/Gideon-BI/SQL-Data-Warehouse-Project/blob/main/assets/Data%20Warehouse%20Diagram%20.drawio.pdf)" width="600" alt="Data Warehouse Architecture">
